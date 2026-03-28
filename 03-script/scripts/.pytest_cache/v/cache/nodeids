@@ -1,0 +1,23 @@
+[
+  "test_cart.py::TestCart::test01_checkbox",
+  "test_cart.py::TestCart::test02_delete_goods",
+  "test_cart.py::TestCart::test_all_delete",
+  "test_cart.py::TestCart::test_cart",
+  "test_cart.py::TestCart::test_cart_add_num",
+  "test_cart.py::TestCart::test_cart_all",
+  "test_cart.py::TestCart::test_checkbox",
+  "test_cart.py::TestCart::test_checkbox_status",
+  "test_cart.py::TestCart::test_delete_goods",
+  "test_detail.py::TestCart::test_detail_add_num",
+  "test_detail.py::TestCart::test_detail_mins_num",
+  "test_detail.py::TestDetail::test_detail_add_num",
+  "test_detail.py::TestDetail::test_detail_addcart_ok",
+  "test_detail.py::TestDetail::test_detail_mins_num",
+  "test_login.py::TestLogin::test_login_0_13822223333",
+  "test_login.py::TestLogin::test_login_1_13800001111",
+  "test_login.py::TestLogin::test_login_2_13800001111",
+  "test_order.py::TestOrder::test_submit_order",
+  "test_register.py::TestRegister::test_register_0_138",
+  "test_register.py::TestRegister::test_register_1_13800001111",
+  "test_register.py::TestRegister::test_register_2_13800001111"
+]

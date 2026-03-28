@@ -1,0 +1,17 @@
+{
+  "test_login.py::TestLogin::test_login_2_13800001111": true,
+  "test_cart.py::TestCart::test_cart": true,
+  "test_cart.py::TestCart::test_checkbox_status": true,
+  "test_cart.py::TestCart::test01_checkbox": true,
+  "test_cart.py::TestCart::test02_delete_goods": true,
+  "test_cart.py::TestCart::test_checkbox": true,
+  "test_cart.py::TestCart::test_delete_goods": true,
+  "test_cart.py::TestCart::test_cart_all": true,
+  "test_detail.py::TestCart::test_detail_add_num": true,
+  "test_detail.py::TestCart::test_detail_mins_num": true,
+  "test_cart.py": true,
+  "test_detail.py": true,
+  "test_login.py": true,
+  "test_order.py": true,
+  "test_register.py": true
+}

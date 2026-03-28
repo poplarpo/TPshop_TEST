@@ -1,0 +1,12 @@
+[
+  "scripts/test_cart.py::TestCart::test_all_delete",
+  "scripts/test_cart.py::TestCart::test_cart_add_num",
+  "scripts/test_detail.py::TestDetail::test_detail_add_num",
+  "scripts/test_detail.py::TestDetail::test_detail_addcart_ok",
+  "scripts/test_detail.py::TestDetail::test_detail_mins_num",
+  "scripts/test_login.py::TestLogin::test_login_0_13822223333",
+  "scripts/test_login.py::TestLogin::test_login_1_13800001111",
+  "scripts/test_order.py::TestOrder::test_submit_order",
+  "scripts/test_register.py::TestRegister::test_register_0_138",
+  "scripts/test_register.py::TestRegister::test_register_1_13800001111"
+]

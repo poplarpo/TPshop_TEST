@@ -1,0 +1,10 @@
+{
+  "scripts/test_cart.py::TestCart": true,
+  "scripts/test_detail.py::TestDetail": true,
+  "scripts/test_login.py::TestLogin": true,
+  "scripts/test_order.py::TestOrder": true,
+  "scripts/test_register.py::TestRegister": true,
+  "scripts/test_cart.py::TestCart::test_all_delete": true,
+  "scripts/test_cart.py::TestCart::test_cart_add_num": true,
+  "scripts/test_detail.py::TestDetail::test_detail_mins_num": true
+}
